@@ -1,3 +1,10 @@
 .env
 
 data/*
+
+
+extract/.cache
+
+extract/.env
+
+.cache
